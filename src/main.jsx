@@ -7,7 +7,7 @@ import {
   RouterProvider,
 } from "react-router-dom";
 import ContactUs from './ContactUs.jsx';
-import Root from './routes/root.jsx';
+import Root from './routes/Root.jsx';
 import Cart from './Cart.jsx';
 
 
